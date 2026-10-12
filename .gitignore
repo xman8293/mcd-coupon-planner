@@ -1,0 +1,6 @@
+# 个人真实数据（含券码/账户信息），绝不入库
+tests/fixtures/my_coupons.md
+
+# Python
+__pycache__/
+*.pyc
